@@ -1,0 +1,9 @@
+.DS_Store
+.ipynb_checkpoints/
+_datasets/
+./_datasets/
+./Module5-forest/fires.csv
+.ipynb_checkpoints/
+./*/ipynb_checkpoints/
+*checkpoint.ipynb
+Module5-forest/fires.csv
